@@ -1,0 +1,16 @@
+1=[1,2,3,4,5]
+n2=[6,7,8,9,10]
+print("the first tuple is:")
+print(n1)
+print("the second tuple is:")
+print(n2)
+n=n1+n2
+print("the tuple after concatenation is:")
+print(n)
+o/p:
+the first tuple is:
+[1, 2, 3, 4, 5]
+the second tuple is:
+[6, 7, 8, 9, 10]
+the tuple after concatenation is:
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
